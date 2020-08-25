@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # NetflixClone
 Just a React Netflix clone with API consumption 
 =======
+Deployed for viewing at https://moovies-b7d30.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
